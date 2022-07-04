@@ -1,0 +1,12 @@
+one:
+  follower: mircea
+  followed: lana
+two:
+  follower: mircea
+  followed: malory
+three:
+  follower: lana
+  followed: mircea
+four:
+  follower: archer
+  followed: mircea
